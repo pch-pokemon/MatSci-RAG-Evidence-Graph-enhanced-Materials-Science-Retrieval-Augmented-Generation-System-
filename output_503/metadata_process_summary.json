@@ -1,0 +1,15 @@
+{
+  "doc_id": "503",
+  "source_file": "503.json",
+  "metadata_block_length": 2789,
+  "embedding_text_length": 3277,
+  "llm_called": true,
+  "json_parsed": true,
+  "fallback_used": false,
+  "outputs": {
+    "metadata_llm_raw.txt": "output_503\\metadata_llm_raw.txt",
+    "metadata_structured.json": "output_503\\metadata_structured.json",
+    "metadata_node.json": "output_503\\metadata_node.json",
+    "metadata_embedding_text.txt": "output_503\\metadata_embedding_text.txt"
+  }
+}

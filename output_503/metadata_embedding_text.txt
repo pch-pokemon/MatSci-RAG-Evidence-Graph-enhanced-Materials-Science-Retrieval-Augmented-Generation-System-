@@ -1,0 +1,16 @@
+Title: Alloying effects and effective alloy design of high-Cr CoNi-based superalloys via a high-throughput experiments and machine learning framework
+Abstract: The discovery of a stable γ / γ′ microstructure in Co-Al-W-based alloys brought forth possibilities for Co-based superalloys as potential alternatives to Ni-based superalloys in high temperature applications. To date, only a few γ′ -strengthened Co-based superalloys with good comprehensive performance have been reported due to the limited knowledge of alloying effects, mainly limited by the "trial and error" approach. In the present work, an accelerated framework integrating a multicomponent diffusion-multiple and machine learning was developed to efficiently and systematically study the effects of alloying elements, e.g. Ni, Al, W, Ti, Ta, Cr, Mo and Nb on the microstructures including phase equilibrium, γ′ volume fraction, γ′ size and γ′ morphology of multicomponent CoNi-based superalloys with high Cr content. The multicomponent diffusion-multiple enabled the collection of a large amount of experimental data relating composition and microstructural parameters, while machine learning enabled the exploration of alloying effects on the microstructural stability and parameters in the compositional space. To validate the efficacy of this approach, two multicomponent CoNi-based superalloys with high Cr addition were designed to possess a γ / γ′ two-phase microstructure of relatively high γ′ volume fraction, low γ′ coarsening rate, with one having a spherical and the other cuboidal γ′ morphology. This framework and the insight obtained in this study will be helpful to accelerate the development and application of multicomponent CoNi-based superalloys with high Cr content for engineering applications.
+Research goal: To efficiently and systematically study the effects of alloying elements on the microstructures of multicomponent CoNi-based superalloys with high Cr content.
+Method summary: An accelerated framework integrating a multicomponent diffusion-multiple and machine learning was developed to collect experimental data and explore alloying effects.
+Main findings: Two multicomponent CoNi-based superalloys with high Cr addition were designed to possess a γ / γ′ two-phase microstructure.; One alloy has a spherical γ′ morphology, the other has a cuboidal γ′ morphology.; Both alloys have relatively high γ′ volume fraction and low γ′ coarsening rate.
+Significance: The framework and insights will help accelerate the development and application of multicomponent CoNi-based superalloys with high Cr content for engineering applications.
+Keywords: CoNi-based superalloys; Alloying effects; Microstructural design; Multicomponent diffusion-multiple; Machine learning
+Material systems: CoNi-based superalloys; Co-Al-W-based alloys
+Alloy family: Superalloys
+Core elements: Co; Ni; Al; W; Cr; Ti; Ta; Mo; Nb
+Property topics: Microstructure; Phase equilibrium; γ′ volume fraction; γ′ size; γ′ morphology; Microstructural stability
+Method tags: Multicomponent diffusion-multiple; Machine learning; High-throughput experiments
+Application tags: High temperature applications; Engineering applications
+Task type: Alloy design
+Document type: research article
+Temperature context: High temperature
